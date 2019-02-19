@@ -1,3 +1,0 @@
-import echarts from 'echarts';
-  
-      
