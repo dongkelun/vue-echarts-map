@@ -1,31 +1,33 @@
-# vue-echarts-map
+# Vue版本Echarts实现中国地图三级钻取
 
-> A Vue.js project
+## 1、演示地址
+[http://front-end.dongkelun.com/vue-echarts-map/#/](http://front-end.dongkelun.com/vue-echarts-map/#/)
 
-## Build Setup
+## 2、运行及部署
 
-``` bash
-# install dependencies
-npm install
+### 2.1 本地运行
+安装依赖
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
+npm install
+```
+运行
+```
+npm run dev
+```
+访问：[localhost:8080](localhost:8080)
+### 2.2 部署
+打包
+```
+npm run build
+```
+部署到tomcat参考：[通过Vue CLI 快速创建Vue项目并部署到tomcat](https://dongkelun.com/2018/11/19/vueCliCreateProject/)
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-echarts-map
+
+## 3、博客地址
+[https://dongkelun.com/2019/02/18/vueEchartsMap/](https://dongkelun.com/2019/02/18/vueEchartsMap/)
+
+## 4、html+css+js版本地址
+[https://github.com/dongkelun/echarts-map](https://github.com/dongkelun/echarts-map)
+
+
