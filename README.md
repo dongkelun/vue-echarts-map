@@ -1,5 +1,6 @@
 # Vue版本Echarts实现中国地图三级钻取
 
+>该分支是为了演示自动获取ip的其中一个方法
 ## 1、演示地址
 [http://front-end.dongkelun.com/vue-echarts-map/#/](http://front-end.dongkelun.com/vue-echarts-map/#/)
 
