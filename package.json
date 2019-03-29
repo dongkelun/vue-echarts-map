@@ -19,6 +19,7 @@
     "axios": "0.18.0"
   },
   "devDependencies": {
+    "address": "^1.0.3",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",

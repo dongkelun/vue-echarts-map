@@ -3,15 +3,8 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 
 const path = require('path')
-
-const os = require('os')
-let localhost = ''
-try {
-  const network = os.networkInterfaces()
-  localhost = network[Object.keys(network)[0]][1].address
-} catch (e) {
-  localhost = 'localhost';
-}
+const address = require('address')
+const localhost = address.ip() || 'localhost'
 
 module.exports = {
   dev: {
