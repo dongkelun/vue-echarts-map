@@ -1,7 +1,7 @@
 # Vue版本Echarts实现中国地图三级钻取
 
 ## 1、演示地址
-[http://gh.dongkelun.com/vue-echarts-map/#/](http://gh.dongkelun.com/vue-echarts-map/#/)
+[http://dongkelun.com/vue-echarts-map/#/](http://dongkelun.com/vue-echarts-map/#/)
 
 ## 2、运行及部署
 
